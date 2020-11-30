@@ -25,6 +25,8 @@ The code here can be run sequentially. Data from Cleveland Ohio is loaded and do
 This section focuses on extracting the review rating or converting the review into an unbiased rating using its polarity and subjectivity. The code in this section can be run sequentially. The dataset created during this section is used in the WALS model if you want to generate unbiased recommendations.
 
 ## Collaborative Filtering with WALS
-
+There are 2 options to load the data, you can either load unbiased ratings from sentiment directory, or the original ratings dataset. Once you load the dataset the rest of the code can be run sequentially
 ## Extracting Recommendations
+This section is used to generate recommendations from the batch_pred file and output. The code can be run sequentially and you can choose a user id to generate recommendations for it
+
 
