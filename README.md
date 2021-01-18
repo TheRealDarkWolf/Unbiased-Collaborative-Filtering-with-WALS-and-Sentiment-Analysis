@@ -1,6 +1,6 @@
 # Building Recommender Systems on the Yelp Open Dataset
 
-Since the dataset is too large to be uploaded, the drive link to the dataset is :https://drive.google.com/drive/folders/1pWMpf4OBkSXnaPEFBmO_k1KX4t1eSv6n?usp=sharing
+This notebook uses the Yelp Open Dataset
 The notebook can be executed sequentially if the data folder is in the same directory as the notebook
 There are 2 ways to load the data, since the notebook was written on colaboratory, the dataset links are drive links. Everytime data is loaded, there 2 lines of code. 
 1.The first line of code loads the data using google drive links. You can run this line if you have the data folder and the notebook in the same directory on drive. Minor changes might be required depending on the name of your directory. 
